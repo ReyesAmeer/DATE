@@ -24,15 +24,6 @@ top edge of '.navbar' should be 13px higher.
 Quixote runs in the browser and works with any test framework. You can even test multiple browsers simultaneously by using a tool such as [Karma](http://karma-runner.github.io) or [Test'em](https://github.com/airportyh/testem). It works in modern desktop browsers, mobile browsers, and IE 8+.
 
 
-## Resources
-
-* **[API Documentation](docs/api.md)**
-* **[Complete Example](example)**
-* **[Browsers Tested for This Release](build/config/tested_browsers.js)**
-* **[Change Log](CHANGELOG.md)**
-* **[Roadmap](ROADMAP.md)**
-* **[Contributing](CONTRIBUTING.md)**
-* **[License (MIT)](LICENSE.txt)**
 
 
 ## Installation
